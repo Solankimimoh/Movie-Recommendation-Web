@@ -11,13 +11,13 @@ section {
     min-height: 100vh;
     background-color: #f8dd30;
     background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.8)), url("../images/banner.jpg");
-    background-size: 200%;
+    background-size: 250%;
     background-repeat: repeat-y;
     display: flex;
     justify-content: center;
     align-items: center;
     padding: 20px;
-    animation: bgImage 35s infinite alternate;
+    animation: bgImage 38s infinite alternate;
 }
 
 @keyframes bgImage {
